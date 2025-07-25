@@ -101,6 +101,7 @@ When using a SNCB FIP Coupon, a cross-border ticket can be booked via the websit
 ### On the train
 
 If no ticket counter is available or open, a ticket can be purchased on board the train from the conductor if approached immediately. According to SNCB, a surcharge of 9 euros is charged here. [^2]
+Discounted FIP tickets from any station can be bought on board the train from the conductor without a 9 euro surcharge.
 
 ## Discounts
 
